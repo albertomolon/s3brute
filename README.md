@@ -1,7 +1,7 @@
 # s3brute
-s3 brute force tool
+Amazon s3 bruteforce tool
 
-# Usage
+## Usage
 ```
-python amazon-s3-enum.py -w BucketNames.txt -d example.com
+python3 amazon-s3-enum.py -w BucketNames.txt -d example.com
 ```
